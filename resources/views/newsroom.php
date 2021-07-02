@@ -81,13 +81,13 @@
                 <div id="owl-newsSlider" class="owl-carousel owl-theme owl-loaded">
                     <div class="item"><img class="news-carousel-img" src="../../images/newsroom-bg.png" alt="News">
                         <div class="carousel-caption">
-                            <h1 class="main-title text-blue"  data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">NEWSROOM</h1>
-                            <p  data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">Stay up to date with the latest news on Top Glove’s performance and industry perspectives.</p>
+                            <h1 class="main-title text-blue"   data-aos-offset="200" data-aos-easing="linear">NEWSROOM</h1>
+                            <p   data-aos-offset="200" data-aos-easing="linear">Stay up to date with the latest news on Top Glove’s performance and industry perspectives.</p>
                         </div>
                     </div>
                     <div class="item"><img class="news-carousel-img" src="../../images/newsroom-bg.png" alt="News2">
                         <div class="carousel-caption">
-                            <h1 class="main-title text-blue"  data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">Content Awaited</h1>
+                            <h1 class="main-title text-blue"   data-aos-offset="200" data-aos-easing="linear">Content Awaited</h1>
                             <p>Stay up to date with the latest news on Top Glove’s performance and industry perspectives.</p>
                         </div>
                     </div>
@@ -96,8 +96,8 @@
 
 
         </section>
-        <section id="news" class="News mt-5">
-            <div class="section-conntainer">
+        <section id="news" class="News mt-5 aos-all">
+            <div class="section-container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="main-heading">
@@ -109,7 +109,7 @@
                 <div class="row content-container">
                     <div class="col-md-12">
                         <div class="row content-row">
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-11 col-md-3 col-lg-3"  data-aos-offset="200" data-aos-easing="linear">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-1.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -122,7 +122,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-11 col-md-3 col-lg-3" >
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-2.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -135,7 +135,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-11 col-md-3 col-lg-3" >
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-3.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -147,7 +147,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-11 col-md-3 col-lg-3" >
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-4.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -159,7 +159,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-11 col-md-3 col-lg-3" >
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-5.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -172,7 +172,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-11 col-md-3 col-lg-3" >
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-1.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -191,7 +191,7 @@
             </div>
         </section>
         <section id="electronicMedia" class="electronic mt-5">
-            <div class="section-conntainer">
+            <div class="section-container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="main-heading">
@@ -303,7 +303,7 @@
             </div>
         </section>
         <section id="pressRelease" class="pressRelease mt-5">
-            <div class="section-conntainer">
+            <div class="section-container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="main-heading">
@@ -385,7 +385,7 @@
             </div>
         </section>
         <section id="chairmainsTalk" class="chairmainsTalk mt-5">
-            <div class="section-conntainer">
+            <div class="section-container">
                 <div class="row">
                     <div class="col-md-4">
                         <div class="left-heading">
@@ -393,7 +393,8 @@
                             <a href="chairmanPowertalk.php"><p class="left-viewAll">View All</p></a>
                         </div>
                         <div class="msg-bottom text-blue text-right">
-                            <p>TAN SRI DR LIM WEE CHAI INTERNATIONAL ANTI <br> CORRUPTION DAY MESSAGE 2020</p>
+                            <p class="m-0">TAN SRI DR LIM WEE CHAI INTERNATIONAL ANTI <br> CORRUPTION DAY MESSAGE 2020</p>
+                            <p class="text-grey">08 Dec 2020</p>
                         </div>
                     </div>
                     <div class="col-md-8">
@@ -406,7 +407,7 @@
             </div>
         </section>
         <section id="event" class="investorRelations mt-5">
-            <div class="section-conntainer">
+            <div class="section-container">
                 <div class="row">
                     <div class="col-md-5">
                         <div class="left-heading">
@@ -434,7 +435,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-5 col-lg-5">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card no-upcoming ">
                                     <div class="card-body">
                                         <p class="card-text">No upcoming event
@@ -442,7 +443,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-2 col-md-2 col-lg-2">
+                            <div class="col-sm-1 col-md-1 col-lg-1">
                                 <div class="card no-last-event ">
                                     <div class="card-body">
                                     </div>
@@ -453,8 +454,8 @@
                 </div>
             </div>
         </section>
-        <section id="mediaKit" class="mediaKit">
-            <div class="mediakit-container">
+        <section id="mediaKit" class="mediaKit mediakit-container">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <h1>Media Kit</h1>

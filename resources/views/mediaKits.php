@@ -312,7 +312,7 @@
                                     <small class="text-light-grey">Market Capitalisation</small>
                                     <p><strong>RM 53.2 billion </strong> (as at 13 January 2021)</p>
                                     <small class="text-light-grey">Component Stock</small>
-                                    <p>MSCI Global Standard Index, FTSE Bursa Malaysia KLCI Index, FBM 100 Index, FBM Emas Index, FBM Hijrah Syariah Index, FBM Emas Syariah Index, FTSE4Good Bursa Malaysia Index, Singapore Exchange and the Dow Jones Sustainability Index (DJSI) for Emerging Markets.</p>
+                                    <p class="m-0">MSCI Global Standard Index, FTSE Bursa Malaysia KLCI Index, FBM 100 Index, FBM Emas Index, FBM Hijrah Syariah Index, FBM Emas Syariah Index, FTSE4Good Bursa Malaysia Index, Singapore Exchange and the Dow Jones Sustainability Index (DJSI) for Emerging Markets.</p>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
@@ -381,7 +381,7 @@
                     </div>
                     <div class="col-sm-7 col-md-7 col-lg-7 col-xl-7">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <img class="img-fluid img-cross" src="<?php echo $img_path; ?>cross.png">
+                        <img class="img-fluid img-cross" src="<?php echo $img_path; ?>modal-close.png">
                     </button>
                         <form action="javascript:void(0)" class="mt-3">
                             <div class="form-group row">

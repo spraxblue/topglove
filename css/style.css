@@ -6199,8 +6199,8 @@ tr.quarterly-dividend-tr {
 .sec-content{
   margin: 70px;
 }
-.section-conntainer{
-  margin: 0 0 0 100px;
+.section-container{
+  margin: 0 0 0 115px;
 }
 .main-heading{
   display: block;
@@ -6413,7 +6413,7 @@ section{
 .chairmainsTalk::before{
   background: rgb(255 255 255 / 85%);
     position: absolute;
-    height: 240px;
+    height: 234px;
     width: 100%;
     content: '';
     left: 0;
@@ -6488,10 +6488,14 @@ section{
   user-select: none!important;
 }
 .investorRelations .card.no-upcoming .card-text{
+  word-break: break-all;
   color: #A2A2A2;
   line-height: 200px;
   height: 100%;
   user-select: none!important;
+}
+.card.no-upcoming .card-body{
+  padding-right: 0;
 }
 .yr-links{
   padding: 0;
@@ -6661,7 +6665,6 @@ margin: 0 -2px!important;
 .slider-conatiner .custom-indicators{
   position: absolute;
   bottom: 20px;
-  left: -110px;
   right: auto;
   z-index: 15;
   display: -ms-flexbox;
@@ -6692,7 +6695,7 @@ background-color: #ffffff !important;
 margin-left: 0px;
 margin-right: 0px;
 right: initial;
-left: 65px;
+left: 100px;
 }
 .single-item-conatiner small{
   display: inline-block;
@@ -6767,7 +6770,12 @@ p.sec-head{
     line-height: 20px;
 }
 .tile-bg-white ul{
-    line-height: 20px;
+  font-size: 18px;
+    line-height: 26px;
+}
+.tile-bg-white p{
+  font-size: 18px;
+  line-height: 26px;
 }
 .tile-bg-white h3{
   font-size: 28px;
@@ -6784,19 +6792,21 @@ p.sec-head{
 }
 .tile-bg-white table td{
   padding: 15px;
+  font-size: 18px;
+  font-weight: 600;
 }
 .tile-bg-white.bod p{
   margin-bottom: 0;
 }
 
 .tile-bg-white.bod .bordDL{
-  font-size: 14px;
-  line-height: 27px;
+  font-size: 18px;
+  line-height: 26px;
 }
 .tile-bg-white.bod .bordDR{
-  font-size: 14px;
+  font-size: 18px;
+  line-height: 26px;
   font-weight: 600;
-  line-height: 27px;
 }
 .logoDbtn-head{
   margin-top: 65px;
