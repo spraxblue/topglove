@@ -65,7 +65,7 @@
                                                     <li class="menu-content">Economic</li>
                                                     <li class="menu-content">Environment</li>
                                                     <li class="menu-content">Social</li>
-                                                    <li class="menu-content">Governance</li>
+                                                    <li class="menu-content"><a href="governance.php">Governance</a></li>
                                                     <li class="menu-content">Improvement in Employees’ Accommodation
                                                     </li>
                                                     <li class="menu-content">Top Glove Foundation</li>
@@ -205,7 +205,7 @@
                                                     <li class="menu-content">Economic</li>
                                                     <li class="menu-content">Environment</li>
                                                     <li class="menu-content">Social</li>
-                                                    <li class="menu-content">Governance</li>
+                                                    <li class="menu-content"><a href="governance.php">Governance</a></li>
                                                     <li class="menu-content">Improvement in Employees’ Accommodation
                                                     </li>
                                                 </ul>
