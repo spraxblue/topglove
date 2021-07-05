@@ -49,17 +49,23 @@
                     <div class="alert-tab">
                         <p>Alert 01</p>
                         <div class="alert-options">
-                            <span class="dot active"></span>
-                            <span class="dot"></span>
-                            <span class="dot"></span>
+                            <span class="dot active" data-alert="0"></span>
+                            <span class="dot" data-alert="1"></span>
+                            <span class="dot" data-alert="2"></span>
                         </div>
                     </div>
-                    <div class="alert-para">
-                        During this Covid-19 Pandemic period, we do not conduct our business via agents/representatives
+                    <div class="alert-para active" id="alert-para1">
+                        1During this Covid-19 Pandemic period, we do not conduct our business via agents/representatives
                         to sell our gloves.
                     </div>
+                    <div class="alert-para" id="alert-para2">
+                        This is new Alert 2
+                    </div>
+                    <div class="alert-para" id="alert-para3">
+                        Its working as expected for 3rd too!!!
+                    </div>
                     <div class="alert-link">
-                        <p class="view-all">Read More</p>
+                        <p class="view-all"><a href="resources/views/fraud-alert.php">Read More</a></p>
                     </div>
                 </div>
             </div>
@@ -1658,7 +1664,21 @@
 
     <script src="js/script.js"></script>
 
-
+<script>
+    $(document).ready(function(){
+        $('.alert-options .dot').on('click', function(){
+            $('.alert-options .dot').removeClass('active')
+            $(this).addClass('active')
+            var dot = $(this).attr('data-alert');
+            dot = parseInt(dot);
+            var alertN = dot+1;
+            console.log(typeof(dot))
+            var para = $('.alert-para');
+            $('.alert-tab p').text('Alert 0'+ alertN);
+            $(para).removeClass('active');
+            $(para[dot]).addClass('active');
+        });
+    });
+</script>
 </body>
-
 </html>

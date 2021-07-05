@@ -33,7 +33,7 @@
                         <h1>Will Top Glove Remain Top Dog In Rubber Gloves?</h1>
                         <p><strong class="text-grey">23 Sep 2020</strong></p>
                         <div class="eleMedia-video-conatiner">
-                        <video controls="" autoplay="" muted="" loop="" id="myVideo1">
+                            <video controls="" autoplay="" muted="" loop="" id="myVideo1">
                                 <source src="videos/demo-video.mp4" type="video/mp4">
                                 Your browser does not support HTML5 video.
                             </video>
@@ -50,91 +50,102 @@
                 <div class="row ">
                     <div class="col-md-12">
                         <div class="row">
-                            <div class="col-sm-12 col-md-4 col-lg-4"><a href="singleElectronicMedia.php">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
+                                <a href="sElectronicMedia.php">
                                     <div class="card">
-                                        <img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
                                         <div class="card-body">
                                             <h5 class="card-title">BFM 89.9</h5>
                                             <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-
-                                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
                                         </div>
                                         <div class="card-footer">
                                             <h5 class="card-info">15 Feb 2021</h5>
                                         </div>
                                     </div>
-                                </a></div>
-                            <div class="col-sm-12 col-md-4 col-lg-4"><a href="singleElectronicMedia.php">
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4">
+                                <a href="sElectronicMedia.php">
                                     <div class="card">
-                                        <img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
                                         <div class="card-body">
                                             <h5 class="card-title">BFM 89.9</h5>
-                                            <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-
-                                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
                                         </div>
                                         <div class="card-footer">
                                             <h5 class="card-info">15 Feb 2021</h5>
                                         </div>
                                     </div>
-                                </a></div>
-                            <div class="col-sm-12 col-md-4 col-lg-4"><a href="singleElectronicMedia.php">
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4">
+                                <a href="sElectronicMedia.php">
                                     <div class="card">
-                                        <img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
                                         <div class="card-body">
                                             <h5 class="card-title">BFM 89.9</h5>
-                                            <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-
-                                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
                                         </div>
                                         <div class="card-footer">
                                             <h5 class="card-info">15 Feb 2021</h5>
                                         </div>
                                     </div>
-                                </a></div>
-                            <div class="col-sm-12 col-md-4 col-lg-4"><a href="singleElectronicMedia.php">
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4">
+                                <a href="sElectronicMedia.php">
                                     <div class="card">
-                                        <img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
                                         <div class="card-body">
-                                            <h5 class="card-title">CNBC</h5>
-                                            <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR
-                                            </p>
-
-                                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
                                         </div>
                                         <div class="card-footer">
                                             <h5 class="card-info">15 Feb 2021</h5>
                                         </div>
                                     </div>
-                                </a></div>
-                            <div class="col-sm-12 col-md-4 col-lg-4"><a href="singleElectronicMedia.php">
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4">
+                                <a href="sElectronicMedia.php">
                                     <div class="card">
-                                        <img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
                                         <div class="card-body">
-                                            <h5 class="card-title">BLOOMBERG TV</h5>
-                                            <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-
-                                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
                                         </div>
                                         <div class="card-footer">
                                             <h5 class="card-info">15 Feb 2021</h5>
                                         </div>
                                     </div>
-                                </a></div>
-                            <div class="col-sm-12 col-md-4 col-lg-4"><a href="singleElectronicMedia.php">
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4">
+                                <a href="sElectronicMedia.php">
                                     <div class="card">
-                                        <img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
                                         <div class="card-body">
-                                            <h5 class="card-title">CNA</h5>
-                                            <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-
-                                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
                                         </div>
                                         <div class="card-footer">
                                             <h5 class="card-info">15 Feb 2021</h5>
                                         </div>
                                     </div>
-                                </a></div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>

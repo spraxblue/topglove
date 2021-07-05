@@ -46,12 +46,12 @@
                 </div>
                 <div class="tab-content mt-5">
                     <div id="imgliabrary" class="tab-pane fade-in active">
-                        <div class="lib-download-bar">
-                            <span><strong class="text-grey">Selected:</strong> <span class="lib-img-selectd-count text-blue" data-val='0'>0</span>
-                                <button class="lib-download-select lib-download-btn">Download</button>
-                            </span>
-                            <a href="javascript:void(0)" class="lib-img-download-all-main lib-img-download-all text-blue boder-bottom-b">Donwload All</a>
-                        </div>
+                            <div class="lib-download-bar">
+                                <span><strong class="text-grey">Selected:</strong> <span class="lib-img-selectd-count text-blue" data-val='0'>0</span>
+                                    <button class="lib-download-select lib-download-btn">Download</button>
+                                </span>
+                                <a href="javascript:void(0)" class="lib-img-download-all-main lib-img-download-all text-blue boder-bottom-b">Donwload All</a>
+                            </div>
                         <p>Top Glove’s consistently strong performance is attributed to the astute leadership provided by its senior management. The key spokespersons for Top Glove Corporation are Tan Sri Dr. Lim Wee Chai, Executive Chairman; Dato’ Lee Kim Meow, Managing Director; and Mr Lim Cheong Guan, Executive Director.</p>
                         <div class="media-libaray-container mt-4">
                             <div class="row">
@@ -472,7 +472,7 @@
             })
         });
 
-        function nextPrev(ev,imgarr) {
+        function nextPrev(ev, imgarr) {
             var imgPaths = [];
             var allImgs = $('.media-libaray-img');
             for (i = 0; i < allImgs.length; i++) {
@@ -481,19 +481,19 @@
             var currImg = $('.img-full-display').attr('src');
             let indexcur = imgPaths.indexOf(currImg);
             if (ev == 'next') {
-                if(indexcur < imgPaths.length){
-                    $('.img-full-display').attr('src', imgPaths[indexcur+1])
-                    let index = imgarr.indexOf(imgPaths[indexcur+1]);
-                    if (index > -1) {
+                if (indexcur < imgPaths.length) {
+                    $('.img-full-display').attr('src', imgPaths[indexcur + 1])
+                    let index = imgarr.indexOf(imgPaths[indexcur + 1]);
+                    if (index > -1 ) {
                         $('.media-md-item-check input').prop('checked', true);
                     } else {
                         $('.media-md-item-check input').prop('checked', false);
                     }
                 }
             } else {
-                if(indexcur > -1 && indexcur != 0 ){
-                    $('.img-full-display').attr('src', imgPaths[indexcur-1])
-                    let index = imgarr.indexOf(imgPaths[indexcur-1]);
+                if (indexcur > -1 && indexcur != 0) {
+                    $('.img-full-display').attr('src', imgPaths[indexcur - 1])
+                    let index = imgarr.indexOf(imgPaths[indexcur - 1]);
                     if (index > -1) {
                         $('.media-md-item-check input').prop('checked', true);
                     } else {

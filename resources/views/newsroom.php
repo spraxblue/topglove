@@ -59,19 +59,19 @@
         </section>
         <!-- breadcrumb -->
         <section id="news-profile" class="main-profile">
-           
+
             <div id="about-us-navigation">
-            <div class="container-wrapper">
-                <ul role="tablist" class="nav nav-pills nav-justified inner-nav">
-                    <li><a href="news.php">News</a></li>
-                    <li><a href="electronicMedia.php">Electronic Media</a></li>
-                    <li><a href="pressRelease.php">Press Release</a></li>
-                    <li><a href="chairmanPowerTalk.php">Chairman's Powertalks</a></li>
-                    <li><a href="events.php">Events</a></li>
-                    <li><a href="mediaKits.php">Media Kit</a></li>
-                </ul>
+                <div class="container-wrapper">
+                    <ul role="tablist" class="nav nav-pills nav-justified inner-nav">
+                        <li><a href="news.php">News</a></li>
+                        <li><a href="electronicMedia.php">Electronic Media</a></li>
+                        <li><a href="pressRelease.php">Press Release</a></li>
+                        <li><a href="chairmanPowerTalk.php">Chairman's Powertalks</a></li>
+                        <li><a href="events.php">Events</a></li>
+                        <li><a href="mediaKits.php">Media Kit</a></li>
+                    </ul>
+                </div>
             </div>
-        </div>
 
             <div class="slider-conatiner">
                 <ul class="custom-indicators">
@@ -81,13 +81,13 @@
                 <div id="owl-newsSlider" class="owl-carousel owl-theme owl-loaded">
                     <div class="item"><img class="news-carousel-img" src="../../images/newsroom-bg.png" alt="News">
                         <div class="carousel-caption">
-                            <h1 class="main-title text-blue"   data-aos-offset="200" data-aos-easing="linear">NEWSROOM</h1>
-                            <p   data-aos-offset="200" data-aos-easing="linear">Stay up to date with the latest news on Top Glove’s performance and industry perspectives.</p>
+                            <h1 class="main-title text-blue" data-aos-offset="200" data-aos-easing="linear">NEWSROOM</h1>
+                            <p data-aos-offset="200" data-aos-easing="linear">Stay up to date with the latest news on Top Glove’s performance and industry perspectives.</p>
                         </div>
                     </div>
                     <div class="item"><img class="news-carousel-img" src="../../images/newsroom-bg.png" alt="News2">
                         <div class="carousel-caption">
-                            <h1 class="main-title text-blue"   data-aos-offset="200" data-aos-easing="linear">Content Awaited</h1>
+                            <h1 class="main-title text-blue" data-aos-offset="200" data-aos-easing="linear">Content Awaited</h1>
                             <p>Stay up to date with the latest news on Top Glove’s performance and industry perspectives.</p>
                         </div>
                     </div>
@@ -108,8 +108,8 @@
                 </div>
                 <div class="row content-container">
                     <div class="col-md-12">
-                        <div class="row content-row">
-                            <div class="col-sm-11 col-md-3 col-lg-3"  data-aos-offset="200" data-aos-easing="linear">
+                        <div class="row content-row custom-wrapper">
+                            <div class="col-sm-11 col-md-3 col-lg-3" data-aos-offset="200" data-aos-easing="linear">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-1.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -122,7 +122,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3" >
+                            <div class="col-sm-11 col-md-3 col-lg-3">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-2.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -135,7 +135,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3" >
+                            <div class="col-sm-11 col-md-3 col-lg-3">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-3.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -147,7 +147,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3" >
+                            <div class="col-sm-11 col-md-3 col-lg-3">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-4.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -159,7 +159,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3" >
+                            <div class="col-sm-11 col-md-3 col-lg-3">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-5.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -172,7 +172,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3" >
+                            <div class="col-sm-11 col-md-3 col-lg-3">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-1.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -202,99 +202,118 @@
                 </div>
                 <div class="row content-container">
                     <div class="col-md-12">
-                        <div class="row content-row">
+                        <div class="row content-row custom-wrapper">
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">BFM 89.9</h5>
-                                        <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">MALAY MAIL</h5>
-                                        <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">BFM 89.9</h5>
-                                        <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">BFM 89.9</h5>
-                                        <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">CNBC</h5>
-                                        <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR
-                                        </p>
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">BLOOMBERG TV</h5>
-                                        <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-11 col-md-3 col-lg-3">
-                                <div class="card">
-                                    <img class="card-img-top" src="<?php echo $img_path; ?>board-member-6.png" alt="Card image" style="width:100%">
-                                    <div class="card-body">
-                                        <h5 class="card-title">CNA</h5>
-                                        <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-                                        <i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                <a href="sElectronicMedia.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/board-member-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">BFM 89.9</h5>
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -314,7 +333,7 @@
                 </div>
                 <div class="row content-container">
                     <div class="col-md-12">
-                        <div class="row content-row">
+                        <div class="row content-row custom-wrapper">
                             <div class="col-sm-11 col-md-3 col-lg-3">
                                 <div class="card">
                                     <div class="card-body">
@@ -332,7 +351,7 @@
                                     <div class="card-body">
                                         <p class="card-text">Top Glove R&D unit ranked second highest among Malaysian patent applicants for
                                             2020</p>
-                                            </div>
+                                    </div>
                                     <div class="card-footer">
                                         <h5 class="card-info">15 Feb 2021</h5>
                                     </div>
@@ -342,7 +361,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
-                                        </div>
+                                    </div>
                                     <div class="card-footer">
                                         <h5 class="card-info">15 Feb 2021</h5>
                                     </div>
@@ -352,7 +371,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
-                                        </div>
+                                    </div>
                                     <div class="card-footer">
                                         <h5 class="card-info">15 Feb 2021</h5>
                                     </div>
@@ -363,7 +382,7 @@
                                     <div class="card-body">
                                         <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
                                         </p>
-                                        </div>
+                                    </div>
                                     <div class="card-footer">
                                         <h5 class="card-info">15 Feb 2021</h5>
                                     </div>
@@ -373,7 +392,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
-                                        </div>
+                                    </div>
                                     <div class="card-footer">
                                         <h5 class="card-info">15 Feb 2021</h5>
                                     </div>
@@ -390,7 +409,9 @@
                     <div class="col-md-4">
                         <div class="left-heading">
                             <h1>Chairman's<br>PowerTalks</h1>
-                            <a href="chairmanPowertalk.php"><p class="left-viewAll">View All</p></a>
+                            <a href="chairmanPowertalk.php">
+                                <p class="left-viewAll">View All</p>
+                            </a>
                         </div>
                         <div class="msg-bottom text-blue text-right">
                             <p class="m-0">TAN SRI DR LIM WEE CHAI INTERNATIONAL ANTI <br> CORRUPTION DAY MESSAGE 2020</p>
@@ -400,6 +421,7 @@
                     <div class="col-md-8">
                         <div class="img-container">
                             <img class="img-fluid" src="<?php echo $img_path; ?>chairman.png">
+                            <i class="fa fa-play play-btn" aria-hidden="true"></i>
                         </div>
 
                     </div>
@@ -471,36 +493,42 @@
                     </div>
                 </div>
                 <div class="mediakit-images">
-                    <div class="row">
+                    <div class="row media-kit-items">
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                            <div  class="social-point bg-red overflow-hidden">
+                            <div class="social-point bg-red overflow-hidden">
                                 <a href="mediakits.php">
                                     <div class="social-point-img">
-                                        <img src="<?php echo $img_path; ?>media-1.png" alt="img" class="w-100"></div>
+                                        <img src="<?php echo $img_path; ?>media-1.png" alt="img" class="w-100">
+                                    </div>
                                     <div class="social-point-heading d-flex justify-content-between align-items-end">
                                         <h4>Image Library</h4><i class="fas fa-angle-right"></i>
                                     </div>
-                                </a></div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                            <div  class="social-point bg-red overflow-hidden">
+                            <div class="social-point bg-red overflow-hidden">
                                 <a href="mediakits.php">
                                     <div class="social-point-img">
-                                        <img src="<?php echo $img_path; ?>media-2.png" alt="img" class="w-100"></div>
+                                        <img src="<?php echo $img_path; ?>media-2.png" alt="img" class="w-100">
+                                    </div>
                                     <div class="social-point-heading d-flex justify-content-between align-items-end">
                                         <h4>Fact Sheet</h4><i class="fas fa-angle-right"></i>
                                     </div>
-                                </a></div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                            <div  class="social-point bg-red overflow-hidden">
+                            <div class="social-point bg-red overflow-hidden">
                                 <a href="mediakits.php">
                                     <div class="social-point-img">
-                                        <img src="<?php echo $img_path; ?>media-3.png" alt="img" class="w-100"></div>
+                                        <img src="<?php echo $img_path; ?>media-3.png" alt="img" class="w-100">
+                                    </div>
                                     <div class="social-point-heading d-flex justify-content-between align-items-end">
                                         <h4>Logo</h4><i class="fas fa-angle-right"></i>
                                     </div>
-                                </a></div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -513,10 +541,6 @@
     <script>
     </script>
     <script type="text/javascript">
-        $(document).ready(function() {
-
-
-        });
     </script>
 </body>
 

@@ -49,7 +49,7 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
                                 <div class="social-point bg-red overflow-hidden">
-                                    <a href="mediakits.php">
+                                    <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
                                             <img src="<?php echo $img_path; ?>mediakit-1.png" alt="img" class="w-100 img-fluid">
                                         </div>
@@ -61,7 +61,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
                                 <div class="social-point bg-red overflow-hidden">
-                                    <a href="mediakits.php">
+                                    <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
                                             <img src="<?php echo $img_path; ?>mediakit-2.png" alt="img" class="w-100 img-fluid">
                                         </div>
@@ -73,7 +73,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
                                 <div class="social-point bg-red overflow-hidden">
-                                    <a href="mediakits.php">
+                                    <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
                                             <img src="<?php echo $img_path; ?>mediakit-3.png" alt="img" class="w-100 img-fluid">
                                         </div>
@@ -85,7 +85,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
                                 <div class="social-point bg-red overflow-hidden">
-                                    <a href="mediakits.php">
+                                    <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
                                             <img src="<?php echo $img_path; ?>mediakit-4.png" alt="img" class="w-100 img-fluid">
                                         </div>
@@ -97,7 +97,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
                                 <div class="social-point bg-red overflow-hidden">
-                                    <a href="mediakits.php">
+                                    <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
                                             <img src="<?php echo $img_path; ?>mediakit-5.png" alt="img" class="w-100 img-fluid">
                                         </div>
@@ -109,7 +109,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
                                 <div class="social-point bg-red overflow-hidden">
-                                    <a href="mediakits.php">
+                                    <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
                                             <img src="<?php echo $img_path; ?>mediakit-6.png" alt="img" class="w-100 img-fluid">
                                         </div>
