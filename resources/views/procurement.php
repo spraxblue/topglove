@@ -489,7 +489,7 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="d-block w-100" src="../../images/Mask Group 1326.png"
+                                        <img class="d-block w-100" src="../../images/Mask Group 1329.png"
                                             alt="Second slide">
                                         <div class="carousel-caption d-md-block">
                                             <h5>Inner boxes</h5>
@@ -497,7 +497,7 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="d-block w-100" src="../../images/Mask Group 1327.png"
+                                        <img class="d-block w-100" src="../../images/Mask Group 1330.png"
                                             alt="Third slide">
                                         <div class="carousel-caption d-md-block">
                                             <h5>Wallets for surgical gloves packaging</h5>
@@ -506,7 +506,7 @@
                                     </div>
 
                                     <div class="carousel-item">
-                                        <img class="d-block w-100" src="../../images/Mask Group 1327.png"
+                                        <img class="d-block w-100" src="../../images/Mask Group 1326.png"
                                             alt="First slide">
                                         <div class="carousel-caption d-md-block">
                                             <h5>Pouches for surgical gloves packaging</h5>
@@ -514,7 +514,7 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="d-block w-100" src="../../images/Mask Group 1327.png"
+                                        <img class="d-block w-100" src="../../images/Mask Group 119.png"
                                             alt="Third slide">
                                         <div class="carousel-caption d-md-block">
                                             <h5>Aluminium sachet for condom packaging</h5>
@@ -522,7 +522,7 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="d-block w-100" src="../../images/Mask Group 1326.png"
+                                        <img class="d-block w-100" src="../../images/Mask Group 118.png"
                                             alt="Second slide">
                                         <div class="carousel-caption d-md-block">
                                             <h5>Plastic bags</h5>

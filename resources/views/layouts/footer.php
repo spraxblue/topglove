@@ -1,3 +1,4 @@
+    <div class="invert-footer">
     <footer>
 
         <div class="container-wrapper">
@@ -84,9 +85,9 @@
                 <div class="col-lg-12 footer-other_brands">
                     <p class="footer-title-second-row">Other Brand</p>
                     <div class="footer-brands-container">
-                        <img src="../../images/Rectangle 72.png">
+                        <img src="../../images/Group 1915.png">
                         <img src="../../images/Rectangle 73.png">
-                        <img src="../../images/Rectangle 74.png">
+                        <img src="../../images/Group 2265.png">
                     </div>
                 </div>
 
@@ -104,6 +105,7 @@
 
 
     </footer>
+    </div>
 
 
     <script src="../../js/aos.js"></script>

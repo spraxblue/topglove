@@ -6656,8 +6656,6 @@ tr.quarterly-dividend-tr {
 .content-row [class*="col"] {
   display: inline-block;
   float: none;
-  padding: 0 !important;
-  margin: 0 35px !important;
 }
 
 .content-row [class*="col"]:first-child {
@@ -6712,8 +6710,7 @@ tr.quarterly-dividend-tr {
 } */
 
 .content-row .card {
-  width: 400px;
-  height: 470px;
+  height: 515px;
   margin-bottom: 50px;
   cursor: pointer;
 }
@@ -6762,8 +6759,7 @@ tr.quarterly-dividend-tr {
 }
 
 .content-row .card-img-top {
-  height: 235px;
-  ;
+  height: 300px;
 }
 
 .card-text::-webkit-scrollbar-track,
@@ -6789,7 +6785,6 @@ tr.quarterly-dividend-tr {
 }
 
 .pressRelease .content-row .card {
-  width: 400px;
   height: 189px;
 }
 
@@ -6903,7 +6898,7 @@ section {
 
 .row.overflow {
   padding-bottom: 20px;
-  overflow-x: auto;
+  overflow-x: hidden;
   /* white-space: nowrap; */
   flex-wrap: nowrap !important;
   flex-direction: row !important;
@@ -7094,7 +7089,7 @@ section {
   display: none;
 }
 
-.accordion-arrow {
+.ppanel-default .accordion-arrow {
   float: right;
   margin-top: 25px;
   color: #162e77;
@@ -7643,7 +7638,21 @@ button.close:focus {
   background-image: url('../images/Intersection 21.png');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 55vh;
+  height: 390px;
+}
+.cop-gov-head_container{
+  position: relative;
+  background-image: url('../images/Mask Group 1323.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 390px;
+}
+.gov-manual-head_container{
+  position: relative;
+  background-image: url('../images/Group 2610.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 390px;
 }
 
 .gov-welcome {
@@ -7652,7 +7661,16 @@ button.close:focus {
   left: 80px;
   margin: 0;
 }
-
+.cgov-welcom-msg{
+  font-size: 18px;
+  text-align: center;
+}
+.cop-gov-quickLinks-items{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 35px;
+}
 .img-full-display-container {
   position: relative;
   display: inline-block;
@@ -7940,4 +7958,95 @@ section.tax-principles {
 .doc-download-img {
   width: 30px;
   height: 25px;
+}
+
+.panel-block{
+  margin-bottom: 40px;
+}
+.panel-sec-heading{
+  padding: 0 5px;
+  font-weight: 700;
+}
+.gov-manual-panels .panel-default>.panel-heading a{
+  display: block;
+    color: #2E323A;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: none;
+}
+.gov-manual-panels .panel-title>a, .gov-manual-panels .panel-title>a:active{
+  padding: 15px;
+  text-transform: none;
+  letter-spacing: 1px;
+  word-spacing: 0;
+  text-decoration: none;
+}
+.gov-manual-panels .panel-default>.panel-heading a>i{
+  display: inline-block;
+    float: right;
+}
+.gov-manual-panels .panel-default>.panel-heading a:after,
+.gov-manual-panels .panel-default>.panel-heading a[aria-expanded="false"]:after,
+.gov-manual-panels  .panel-default>.panel-heading a[aria-expanded="true"]:after{
+  content: "";
+}
+
+.gov-manual-panels  .panel-default>.panel-heading a[aria-expanded="true"]>i{
+  /* -ms-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg); */
+}
+.gov-manual-panels .panel-default>.panel-heading a[aria-expanded="false"]>i{
+  -ms-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.gov-manual-panels .panel-heading{
+  border-radius: 5px;
+  margin: 0;
+}
+.gov-manual-panels .panel-heading.active{
+  border-radius: 5px 5px 0 0;
+}
+.gov-manual-panels .panel-heading .panel-title{
+  margin: 0;
+}
+.gov-manual-panels .panel-body{
+  background: #fff;
+    padding: 20px;
+    border-radius: 0 0 5px 5px;
+}
+.gov-manual-panels .panel-body a{
+  color: #162E77;
+  text-decoration: underline;
+}
+.gov-manual-panel{
+  margin-bottom: 15px;
+}
+
+.awards-cards .card-img-top{
+  padding: 30px 50px!important;
+}
+.awards-cards .card-body{
+  text-align: center;
+}
+.awards-cards .card-title{
+  font-size: 18px;
+}
+.awards-cards .card-text{
+    color: #2e323a;
+    font-size: 18px;
+    font-weight: 400;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 10;
+    overflow: hidden;
+    height: 300px;
+    cursor: grab;
+    line-height: 28px;
+    margin: 20px 0;
 }

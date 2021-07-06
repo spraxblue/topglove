@@ -109,7 +109,7 @@
                 <div class="row content-container">
                     <div class="col-md-12">
                         <div class="row content-row custom-wrapper">
-                            <div class="col-sm-11 col-md-3 col-lg-3" data-aos-offset="200" data-aos-easing="linear">
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos-offset="200" data-aos-easing="linear">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-1.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -122,7 +122,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-2.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -135,7 +135,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-3.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -147,7 +147,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-4.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -159,7 +159,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-5.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -172,7 +172,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <img class="card-img-top" src="<?php echo $img_path; ?>img-1.png" alt="Card image" style="width:100%">
                                     <div class="card-body">
@@ -203,7 +203,7 @@
                 <div class="row content-container">
                     <div class="col-md-12">
                         <div class="row content-row custom-wrapper">
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -219,7 +219,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -235,7 +235,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -251,7 +251,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -267,7 +267,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -283,7 +283,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -299,7 +299,7 @@
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <a href="sElectronicMedia.php">
                                     <div class="card">
                                         <div class="card-overlay-container">
@@ -334,7 +334,7 @@
                 <div class="row content-container">
                     <div class="col-md-12">
                         <div class="row content-row custom-wrapper">
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Top Glove’s R&D unit ranked second among Malaysian patent applicants in 2020
@@ -346,7 +346,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Top Glove R&D unit ranked second highest among Malaysian patent applicants for
@@ -357,7 +357,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
@@ -367,7 +367,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
@@ -377,7 +377,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
@@ -388,7 +388,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-11 col-md-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>

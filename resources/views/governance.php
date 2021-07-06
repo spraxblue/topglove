@@ -128,7 +128,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
                         <div class="social-point bg-red overflow-hidden">
-                            <a href="corporate-governance.php.php">
+                            <a href="corporate-governance.php">
                                 <div class="social-point-img">
                                     <img src="../../images/Mask Group 70.png" alt="img" class="w-100">
                                 </div>
@@ -140,7 +140,7 @@
                     </div>
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
                         <div class="social-point bg-red overflow-hidden">
-                            <a href="corporate-integrity.php.php">
+                            <a href="corporate-integrity.php">
                                 <div class="social-point-img">
                                     <img src="../../images/Mask Group 13296.png" alt="img" class="w-100">
                                 </div>
@@ -159,14 +159,6 @@
     <!-- Footer -->
     <?php @include('layouts/footer.php') ?>
     <!-- Footer -->
-
-    <script>
-        $(document).ready(function() {
-            var imgs = $('.footer-brands-container img')
-            $(imgs[0]).attr('src', '../../images/Group 1915.png')
-            $(imgs[2]).attr('src', '../../images/Group 2265.png')
-        });
-    </script>
 </body>
 
 </html>
