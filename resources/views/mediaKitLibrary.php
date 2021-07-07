@@ -38,16 +38,16 @@
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="nav nav-tabs yr-links">
-                            <li><a class="item-link active" data-toggle="tab" href="#imgliabrary">Image Library</a></li>
+                            <li><a class="item-link active show" data-toggle="tab" href="#imgliabrary">Image Library</a></li>
                             <li><a class="item-link" data-toggle="tab" href="#t-factSheet">Fact sheet</a></li>
                             <li><a class="item-link" data-toggle="tab" href="#t-logo">Logo</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="tab-content mt-5">
-                    <div id="imgliabrary" class="tab-pane fade-in active">
+                    <div id="imgliabrary" class="tab-pane fade in active show">
                             <div class="lib-download-bar">
-                                <span><strong class="text-grey">Selected:</strong> <span class="lib-img-selectd-count text-blue" data-val='0'>0</span>
+                                <span><strong class="text-grey">Selected:</strong> <span class="lib-img-selectd-count text-blue" data-val="0">0</span>
                                     <button class="lib-download-select lib-download-btn">Download</button>
                                 </span>
                                 <a href="javascript:void(0)" class="lib-img-download-all-main lib-img-download-all text-blue boder-bottom-b">Donwload All</a>
@@ -57,12 +57,12 @@
                             <div class="row">
                                 <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">
                                     <div class="media-lib-item">
-                                        <img class="img-fluid media-libaray-img" src="<?php echo $img_path; ?>board-member-1.png">
+                                        <img class="img-fluid media-libaray-img" src="../../images/board-member-1.png">
                                         <p class="lib-img-dec">Dato’ Lee Kim Meow | Managing Director (Standing)</p>
                                         <div class="media-lib-item-action">
-                                            <img class="media-lib-item-search" src="<?php echo $img_path; ?>Group 1075@2x.png">
+                                            <img class="media-lib-item-search" src="../../images/Group 1075@2x.png">
                                             <div class="check-round media-lib-item-check ">
-                                                <input type="checkbox" name="selectImage[]" id="checkbox1" />
+                                                <input type="checkbox" name="selectImage[]" id="checkbox1">
                                                 <label for="checkbox1"></label>
                                             </div>
                                         </div>
@@ -70,12 +70,12 @@
                                 </div>
                                 <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">
                                     <div class="media-lib-item">
-                                        <img class="img-fluid media-libaray-img" src="<?php echo $img_path; ?>board-member-2.png">
+                                        <img class="img-fluid media-libaray-img" src="../../images/board-member-2.png">
                                         <p class="lib-img-dec">Dato’ Lee Kim Meow | Managing Director (Standing)</p>
                                         <div class="media-lib-item-action">
-                                            <img class="media-lib-item-search" src="<?php echo $img_path; ?>Group 1075@2x.png">
+                                            <img class="media-lib-item-search" src="../../images/Group 1075@2x.png">
                                             <div class="check-round media-lib-item-check ">
-                                                <input type="checkbox" name="selectImage[]" id="checkbox2" />
+                                                <input type="checkbox" name="selectImage[]" id="checkbox2">
                                                 <label for="checkbox2"></label>
                                             </div>
                                         </div>
@@ -83,12 +83,12 @@
                                 </div>
                                 <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">
                                     <div class="media-lib-item">
-                                        <img class="img-fluid media-libaray-img" src="<?php echo $img_path; ?>board-member-3.png">
+                                        <img class="img-fluid media-libaray-img" src="../../images/board-member-3.png">
                                         <p class="lib-img-dec">Dato’ Lee Kim Meow | Managing Director (Standing)</p>
                                         <div class="media-lib-item-action">
-                                            <img class="media-lib-item-search" src="<?php echo $img_path; ?>Group 1075@2x.png">
+                                            <img class="media-lib-item-search" src="../../images/Group 1075@2x.png">
                                             <div class="check-round media-lib-item-check ">
-                                                <input type="checkbox" name="selectImage[]" id="checkbox3" />
+                                                <input type="checkbox" name="selectImage[]" id="checkbox3">
                                                 <label for="checkbox3"></label>
                                             </div>
                                         </div>
@@ -96,12 +96,12 @@
                                 </div>
                                 <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">
                                     <div class="media-lib-item">
-                                        <img class="img-fluid media-libaray-img" src="<?php echo $img_path; ?>board-member-4.png">
+                                        <img class="img-fluid media-libaray-img" src="../../images/board-member-4.png">
                                         <p class="lib-img-dec">Dato’ Lee Kim Meow | Managing Director (Standing)</p>
                                         <div class="media-lib-item-action">
-                                            <img class="media-lib-item-search" src="<?php echo $img_path; ?>Group 1075@2x.png">
+                                            <img class="media-lib-item-search" src="../../images/Group 1075@2x.png">
                                             <div class="check-round media-lib-item-check ">
-                                                <input type="checkbox" name="selectImage[]" id="checkbox4" />
+                                                <input type="checkbox" name="selectImage[]" id="checkbox4">
                                                 <label for="checkbox4"></label>
                                             </div>
                                         </div>
@@ -109,12 +109,12 @@
                                 </div>
                                 <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">
                                     <div class="media-lib-item">
-                                        <img class="img-fluid media-libaray-img" src="<?php echo $img_path; ?>board-member-5.png">
+                                        <img class="img-fluid media-libaray-img" src="../../images/board-member-5.png">
                                         <p class="lib-img-dec">Dato’ Lee Kim Meow | Managing Director (Standing)</p>
                                         <div class="media-lib-item-action">
-                                            <img class="media-lib-item-search" src="<?php echo $img_path; ?>Group 1075@2x.png">
+                                            <img class="media-lib-item-search" src="../../images/Group 1075@2x.png">
                                             <div class="check-round media-lib-item-check ">
-                                                <input type="checkbox" name="selectImage[]" id="checkbox5" />
+                                                <input type="checkbox" name="selectImage[]" id="checkbox5">
                                                 <label for="checkbox5"></label>
                                             </div>
                                         </div>
@@ -122,12 +122,12 @@
                                 </div>
                                 <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">
                                     <div class="media-lib-item">
-                                        <img class="img-fluid media-libaray-img" src="<?php echo $img_path; ?>board-member-6.png">
+                                        <img class="img-fluid media-libaray-img" src="../../images/board-member-6.png">
                                         <p class="lib-img-dec">Dato’ Lee Kim Meow | Managing Director (Standing)</p>
                                         <div class="media-lib-item-action">
-                                            <img class="media-lib-item-search" src="<?php echo $img_path; ?>Group 1075@2x.png">
+                                            <img class="media-lib-item-search" src="../../images/Group 1075@2x.png">
                                             <div class="check-round media-lib-item-check ">
-                                                <input type="checkbox" name="selectImage[]" id="checkbox6" />
+                                                <input type="checkbox" name="selectImage[]" id="checkbox6">
                                                 <label for="checkbox6"></label>
                                             </div>
                                         </div>
@@ -137,17 +137,17 @@
                             </div>
                         </div>
                     </div>
-                    <div id="t-factSheet" class="tab-pane fade in">
+                    <div id="t-factSheet" class="tab-pane fade-in ">
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                                <div class="tile-bg-white">
+                                <div class="tile-bg-white" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">THE COMPANY</h3>
                                     <p>Top Glove is the world’s largest manufacturer of gloves. Founded by Tan Sri Dr Lim Wee Chai and Puan Sri Tong Siew Bee in 1991, it was listed on the Second Board of Bursa Malaysia in March 2001, then promoted within 14 months to the Main Board in May 2002. On 28 June 2016, Top Glove was also listed on the Mainboard of the Singapore Exchange. The company exports to more than 2000 customers in over 195 countries worldwide.</p>
                                 </div>
-                                <div class="tile-bg-white">
+                                <div class="tile-bg-white" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">IN-HOUSE BRANDS</h3>
                                     <table>
-                                        <tr>
+                                        <tbody><tr>
                                             <td>TOP GLOVE</td>
                                             <td>TG MEDICAL</td>
                                             <td>GREAT GLOVE</td>
@@ -167,9 +167,9 @@
                                             <td>TOP CLEAN</td>
                                             <td>TOP BRIGHT</td>
                                         </tr>
-                                    </table>
+                                    </tbody></table>
                                 </div>
-                                <div class="tile-bg-white bod">
+                                <div class="tile-bg-white bod" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">BOARD OF DIRECTORS</h3>
                                     <div class="row">
                                         <div class="col-sm-7 col-md-7 col-lg-7 col-xl-7">
@@ -270,7 +270,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                                <div class="tile-bg-white">
+                                <div class="tile-bg-white" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">BUSINESS AND MANUFACTURING ACTIVITIES</h3>
                                     <p>Top Glove manufactures and exports the following glove and non-glove products:</p>
                                     <p><strong>Examination Gloves</strong></p>
@@ -300,10 +300,10 @@
                                         <li>Polyisoprene Surgical Gloves</li>
                                         <li>Polychloroprene Surgical Gloves</li>
                                     </ul>
-                                    <p><strong>Others Glove & Non-Glove Products</strong></p>
+                                    <p><strong>Others Glove &amp; Non-Glove Products</strong></p>
                                     <ul class="summary-card-row-detail">
                                         <li>Cleanroom Gloves (Latex/Nitrile)</li>
-                                        <li>Supported & PE Gloves</li>
+                                        <li>Supported &amp; PE Gloves</li>
                                         <li>High Risk Gloves (Latex/Nitrile)</li>
                                         <li>CPE Gloves</li>
                                         <li>TPE Gloves</li>
@@ -319,9 +319,9 @@
                         </div>
                         <div class="row">
                             <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                                <div class="tile-bg-white financial">
+                                <div class="tile-bg-white financial" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">FINANCIAL INFORMATION</h3>
-                                    <small class="text-light-grey">Issued & Paid-up Capital</small>
+                                    <small class="text-light-grey">Issued &amp; Paid-up Capital</small>
                                     <p><strong>RM 1,675,704,222 </strong> (as at 31 August 2020)</p>
                                     <small class="text-light-grey">Sales</small>
                                     <p><strong>RM 4.8 billion </strong> (as at 9 December 2020)</p>
@@ -332,12 +332,12 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                                <div class="tile-bg-white opetrational">
+                                <div class="tile-bg-white opetrational" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">OPERATIONAL FIGURES</h3>
                                     <small class="text-light-grey">Workforce</small>
                                     <p><strong>21,000 employees for the whole Group </strong></p>
                                     <small class="text-light-grey">Factories</small>
-                                    <p><strong>47 Factories </strong> (41 in Malaysia, 4 in Thailand, 1 in Vietnam & 1 in China)</p>
+                                    <p><strong>47 Factories </strong> (41 in Malaysia, 4 in Thailand, 1 in Vietnam &amp; 1 in China)</p>
                                     <small class="text-light-grey">Number of Production Lines</small>
                                     <p><strong>765 production lines </strong></p>
                                     <small class="text-light-grey">Production Capacity</small>
@@ -351,13 +351,13 @@
                     <div id="t-logo" class="tab-pane fade in">
                         <div class="row mb-5">
                             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                                <div class="text-center"><img class="img-fluid" src="<?php echo $img_path; ?>Rectangle 3.png"></div>
+                                <div class="text-center"><img class="img-fluid" src="../../images/Rectangle 3.png"></div>
 
                             </div>
                         </div>
-                        <div class="row mt-2 tile-bg-white">
+                        <div class="row mt-2 tile-bg-white" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                             <div class="col-sm-9 col-md-9 col-lg-9 col-xl-9">
-                                <div class="tile-bg-white">
+                                <div class="tile-bg-white" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                     <h3 class="text-blue">TOP GLOVE LOGO</h3>
                                     <p>With its bold letters and clear blue color, the Top Glove logo is a clear reflection of the highest quality, long term reliability and consistency. In short, it represents the hallmark of premium quality rubber and synthetic gloves. Being the colour of the sea and sky, blue represents depth and stability. It is also a symbol of trust, loyalty, wisdom, confidence, intelligence, faith, truth and serenity.</p>
                                 </div>

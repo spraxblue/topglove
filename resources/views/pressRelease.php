@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="main-heading">
+                        <div class="main-heading" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
                             <h1>Press Release</h1>
                         </div>
                     </div>
@@ -47,71 +47,79 @@
                 </div>
                 <div class="tab-content mt-5">
                     <div id="all" class="tab-pane fade-in active">
-                        <div class="row ">
-                            <div class="col-md-12">
-                                <div class="row">
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
 
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
 
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
 
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
 
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
 
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
 
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                </div>
-                            </div>
+                                </a></div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
@@ -142,71 +150,79 @@
                             </div>
                             <div id="feb-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                            </div>
-                                        </div>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -222,71 +238,79 @@
                             </div>
                             <div id="jan-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row  mt-5">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                    <div class="row  mt-5">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                            </div>
-                                        </div>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -304,71 +328,79 @@
                             </div>
                             <div id="feb-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                            </div>
-                                        </div>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -384,71 +416,79 @@
                             </div>
                             <div id="jan-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2020">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row  mt-5">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                    <div class="row  mt-5">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sPressRelease.php"><div class="card">
-                                    <div class="card-body">
-                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sPressRelease.php">
+                                                <div class="card">
+                                                    <div class="card-body">
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
 
-                                    </div>
-                                    <div class="card-footer">
-                                        <h5 class="card-info">15 Feb 2021</h5>
-                                    </div>
-                                </div></a></div>
-                                            </div>
-                                        </div>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -461,58 +501,7 @@
     <!-- Footer -->
     <?php @include('layouts/footer.php') ?>
     <!-- Footer -->
-    <script>
-        var track = document.getElementById('track');
-
-        var controlBtn = document.getElementById('play-pause');
-
-        function playPause() {
-            if (track.paused) {
-                track.play();
-                //controlBtn.textContent = "Pause";
-                controlBtn.className = "pause";
-            } else {
-                track.pause();
-                //controlBtn.textContent = "Play";
-                controlBtn.className = "play";
-            }
-        }
-
-        controlBtn.addEventListener("click", playPause);
-        track.addEventListener("ended", function() {
-            controlBtn.className = "play";
-        });
-    </script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $(".owl-carousel").owlCarousel();
-        });
-
-
-
-        var $owl = $('#video-3-slider');
-
-        $owl.children().each(function(index) {
-            $(this).attr('data-position', index); // NB: .attr() instead of .data()
-        });
-
-        $owl.owlCarousel({
-            center: true,
-            // loop: true,
-            // items: 3,
-            margin: 30,
-            loop: true,
-            items: 1,
-            stagePadding: 200
-
-        });
-
-        $(document).on('click', '.owl-item>div', function() {
-            // see https://owlcarousel2.github.io/OwlCarousel2/docs/api-events.html#to-owl-carousel
-            var $speed = 300; // in ms
-            $owl.trigger('to.owl.carousel', [$(this).data('position'), $speed]);
-        });
-    </script>
+ 
 </body>
 
 </html>

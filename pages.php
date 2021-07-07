@@ -37,6 +37,7 @@ ol.d {
   <li><a target="_blank" href="resources/views/governance.php">Governance</a></li>
   <li><a target="_blank" href="resources/views/corporate-governance.php">Corporate Governance</a></li>
   <li><a target="_blank" href="resources/views/committees-managements.php">Committees & Managements</a></li>
+  <li><a target="_blank" href="resources/views/committees-managements.php">Governance Structure</a></li>
   <li><a target="_blank" href="resources/views/procurement.php">Procurement</a></li>
   <li><a target="_blank" href="resources/views/career-opportunity.php">Careers</a></li>
 

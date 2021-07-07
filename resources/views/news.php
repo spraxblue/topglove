@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="main-heading">
+                        <div class="main-heading" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
                             <h1>News</h1>
                         </div>
                     </div>
@@ -47,106 +47,102 @@
                 </div>
                 <div class="tab-content mt-5">
                     <div id="all" class="tab-pane fade-in active">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="row mt-4">
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container" style="position: relative;">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                </div>
-                                                <div class="card-body">
-                                                    <h5 class="card-title">THE SUN DAILY</h5>
-                                                    <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                                    </p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
-                                                </div>
+                        <div class="row mt-4">
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container" style="position: relative;">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                        </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">THE SUN DAILY</h5>
+                                            <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
+                                    </div>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
+                                        </div>
 
-                                                <div class="card-body">
-                                                    <h5 class="card-title">THE EDGE MARKETS</h5>
-                                                    <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
-                                                        2020</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
-                                                </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">THE EDGE MARKETS</h5>
+                                            <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
+                                                2020</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
+                                    </div>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
+                                        </div>
 
-                                                <div class="card-body">
-                                                    <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                    <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
+                                        <div class="card-body">
+                                            <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                            <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
 
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
-                                                </div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
+                                    </div>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
+                                        </div>
 
-                                                <div class="card-body">
-                                                    <h5 class="card-title">THE STAR</h5>
-                                                    <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
+                                        <div class="card-body">
+                                            <h5 class="card-title">THE STAR</h5>
+                                            <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
 
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
-                                                </div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
+                                    </div>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
+                                        </div>
 
-                                                <div class="card-body">
-                                                    <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                    <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
-                                                    </p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a></div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                </div>
+                                        <div class="card-body">
+                                            <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                            <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
+                                            </p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
+                                    </div>
+                                </a></div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                        </div>
 
-                                                <div class="card-body">
-                                                    <h5 class="card-title">MALAY MAIL</h5>
-                                                    <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
+                                        <div class="card-body">
+                                            <h5 class="card-title">MALAY MAIL</h5>
+                                            <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
 
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a></div>
-                                </div>
-                            </div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
+                                    </div>
+                                </a></div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
@@ -177,104 +173,100 @@
                             </div>
                             <div id="feb-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="row mt-4">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                    <div class="row mt-4">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE SUN DAILY</h5>
-                                                                <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE SUN DAILY</h5>
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE EDGE MARKETS</h5>
-                                                                <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
-                                                                    2020</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE EDGE MARKETS</h5>
+                                                        <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
+                                                            2020</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE STAR</h5>
-                                                                <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE STAR</h5>
+                                                        <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">MALAY MAIL</h5>
-                                                                <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                            </div>
-                                        </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">MALAY MAIL</h5>
+                                                        <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -290,104 +282,100 @@
                             </div>
                             <div id="jan-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2">
                                 <div class="panel-body">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="row mt-4">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                    <div class="row mt-4">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE SUN DAILY</h5>
-                                                                <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE SUN DAILY</h5>
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE EDGE MARKETS</h5>
-                                                                <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
-                                                                    2020</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE EDGE MARKETS</h5>
+                                                        <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
+                                                            2020</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE STAR</h5>
-                                                                <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE STAR</h5>
+                                                        <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">MALAY MAIL</h5>
-                                                                <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                            </div>
-                                        </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">MALAY MAIL</h5>
+                                                        <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -405,104 +393,100 @@
                             </div>
                             <div id="feb-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="row mt-4">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                    <div class="row mt-4">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE SUN DAILY</h5>
-                                                                <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE SUN DAILY</h5>
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE EDGE MARKETS</h5>
-                                                                <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
-                                                                    2020</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE EDGE MARKETS</h5>
+                                                        <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
+                                                            2020</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE STAR</h5>
-                                                                <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE STAR</h5>
+                                                        <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">MALAY MAIL</h5>
-                                                                <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                            </div>
-                                        </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">MALAY MAIL</h5>
+                                                        <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>
@@ -518,104 +502,100 @@
                             </div>
                             <div id="jan-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2020">
                                 <div class="panel-body">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="row mt-4">
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                    <div class="row mt-4">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE SUN DAILY</h5>
-                                                                <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE SUN DAILY</h5>
+                                                        <p class="card-text">Top Glove’s R&amp;D unit ranked second among Malaysian patent applicants in 2020
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-2.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE EDGE MARKETS</h5>
-                                                                <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
-                                                                    2020</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE EDGE MARKETS</h5>
+                                                        <p class="card-text">Top Glove R&amp;D unit ranked second highest among Malaysian patent applicants for
+                                                            2020</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-3.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">Top Glove is the second highest Malaysian patent applicant under MyIPO</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-4.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">THE STAR</h5>
-                                                                <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">THE STAR</h5>
+                                                        <p class="card-text">Top Glove to emphasise more on ESG in business ops</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-5.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">FOCUS MALAYSIA</h5>
-                                                                <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
-                                                                </p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4"><a href="sNews.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
-                                                            </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">FOCUS MALAYSIA</h5>
+                                                        <p class="card-text">May the Ox Year bless Top Glove (and its shareholders) with bountiful harvest
+                                                        </p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear"><a href="sNews.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/img-1.png" alt="Card image" style="width:100%">
+                                                    </div>
 
-                                                            <div class="card-body">
-                                                                <h5 class="card-title">MALAY MAIL</h5>
-                                                                <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a></div>
-                                            </div>
-                                        </div>
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">MALAY MAIL</h5>
+                                                        <p class="card-text">Malaysian Rating Corp upgrades Top Glove credit rating to AA+</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
+                                                </div>
+                                            </a></div>
                                     </div>
                                 </div>
                             </div>

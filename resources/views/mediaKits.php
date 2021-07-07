@@ -30,7 +30,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="main-heading">
+                        <div class="main-heading"  data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
                             <h1>Media kit</h1>
                         </div>
                     </div>
@@ -47,11 +47,11 @@
                 <div class="tab-content mt-5">
                     <div id="imgliabrary" class="tab-pane fade-in active">
                         <div class="row">
-                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
+                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="social-point bg-red overflow-hidden">
                                     <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
-                                            <img src="<?php echo $img_path; ?>mediakit-1.png" alt="img" class="w-100 img-fluid">
+                                            <img src="../../images/mediakit-1.png" alt="img" class="w-100 img-fluid">
                                         </div>
                                         <div class="social-point-heading d-flex justify-content-between align-items-end">
                                             <h4>Senior Management</h4><i class="fas fa-angle-right"></i>
@@ -59,11 +59,11 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
+                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="social-point bg-red overflow-hidden">
                                     <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
-                                            <img src="<?php echo $img_path; ?>mediakit-2.png" alt="img" class="w-100 img-fluid">
+                                            <img src="../../images/mediakit-2.png" alt="img" class="w-100 img-fluid">
                                         </div>
                                         <div class="social-point-heading d-flex justify-content-between align-items-end">
                                             <h4>Offices</h4><i class="fas fa-angle-right"></i>
@@ -71,11 +71,11 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
+                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="social-point bg-red overflow-hidden">
                                     <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
-                                            <img src="<?php echo $img_path; ?>mediakit-3.png" alt="img" class="w-100 img-fluid">
+                                            <img src="../../images/mediakit-3.png" alt="img" class="w-100 img-fluid">
                                         </div>
                                         <div class="social-point-heading d-flex justify-content-between align-items-end">
                                             <h4>Glove production</h4><i class="fas fa-angle-right"></i>
@@ -83,23 +83,23 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
+                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="social-point bg-red overflow-hidden">
                                     <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
-                                            <img src="<?php echo $img_path; ?>mediakit-4.png" alt="img" class="w-100 img-fluid">
+                                            <img src="../../images/mediakit-4.png" alt="img" class="w-100 img-fluid">
                                         </div>
                                         <div class="social-point-heading d-flex justify-content-between align-items-end">
-                                            <h4>Research & Development</h4><i class="fas fa-angle-right"></i>
+                                            <h4>Research &amp; Development</h4><i class="fas fa-angle-right"></i>
                                         </div>
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
+                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="social-point bg-red overflow-hidden">
                                     <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
-                                            <img src="<?php echo $img_path; ?>mediakit-5.png" alt="img" class="w-100 img-fluid">
+                                            <img src="../../images/mediakit-5.png" alt="img" class="w-100 img-fluid">
                                         </div>
                                         <div class="social-point-heading d-flex justify-content-between align-items-end">
                                             <h4>Face Mask Production</h4><i class="fas fa-angle-right"></i>
@@ -107,11 +107,11 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2">
+                            <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-4 pb-2" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="social-point bg-red overflow-hidden">
                                     <a href="mediaKitLibrary.php">
                                         <div class="social-point-img">
-                                            <img src="<?php echo $img_path; ?>mediakit-6.png" alt="img" class="w-100 img-fluid">
+                                            <img src="../../images/mediakit-6.png" alt="img" class="w-100 img-fluid">
                                         </div>
                                         <div class="social-point-heading d-flex justify-content-between align-items-end">
                                             <h4>Condom Production</h4><i class="fas fa-angle-right"></i>
@@ -123,7 +123,7 @@
                     </div>
                     <div id="t-factSheet" class="tab-pane fade in">
                         <div class="row">
-                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="tile-bg-white">
                                     <h3 class="text-blue">THE COMPANY</h3>
                                     <p>Top Glove is the world’s largest manufacturer of gloves. Founded by Tan Sri Dr Lim Wee Chai and Puan Sri Tong Siew Bee in 1991, it was listed on the Second Board of Bursa Malaysia in March 2001, then promoted within 14 months to the Main Board in May 2002. On 28 June 2016, Top Glove was also listed on the Mainboard of the Singapore Exchange. The company exports to more than 2000 customers in over 195 countries worldwide.</p>
@@ -131,7 +131,7 @@
                                 <div class="tile-bg-white">
                                     <h3 class="text-blue">IN-HOUSE BRANDS</h3>
                                     <table>
-                                        <tr>
+                                        <tbody><tr>
                                             <td>TOP GLOVE</td>
                                             <td>TG MEDICAL</td>
                                             <td>GREAT GLOVE</td>
@@ -151,7 +151,7 @@
                                             <td>TOP CLEAN</td>
                                             <td>TOP BRIGHT</td>
                                         </tr>
-                                    </table>
+                                    </tbody></table>
                                 </div>
                                 <div class="tile-bg-white bod">
                                     <h3 class="text-blue">BOARD OF DIRECTORS</h3>
@@ -253,7 +253,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="tile-bg-white">
                                     <h3 class="text-blue">BUSINESS AND MANUFACTURING ACTIVITIES</h3>
                                     <p>Top Glove manufactures and exports the following glove and non-glove products:</p>
@@ -284,10 +284,10 @@
                                         <li>Polyisoprene Surgical Gloves</li>
                                         <li>Polychloroprene Surgical Gloves</li>
                                     </ul>
-                                    <p><strong>Others Glove & Non-Glove Products</strong></p>
+                                    <p><strong>Others Glove &amp; Non-Glove Products</strong></p>
                                     <ul class="summary-card-row-detail">
                                         <li>Cleanroom Gloves (Latex/Nitrile)</li>
-                                        <li>Supported & PE Gloves</li>
+                                        <li>Supported &amp; PE Gloves</li>
                                         <li>High Risk Gloves (Latex/Nitrile)</li>
                                         <li>CPE Gloves</li>
                                         <li>TPE Gloves</li>
@@ -302,10 +302,10 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="tile-bg-white financial">
                                     <h3 class="text-blue">FINANCIAL INFORMATION</h3>
-                                    <small class="text-light-grey">Issued & Paid-up Capital</small>
+                                    <small class="text-light-grey">Issued &amp; Paid-up Capital</small>
                                     <p><strong>RM 1,675,704,222 </strong> (as at 31 August 2020)</p>
                                     <small class="text-light-grey">Sales</small>
                                     <p><strong>RM 4.8 billion </strong> (as at 9 December 2020)</p>
@@ -315,13 +315,13 @@
                                     <p class="m-0">MSCI Global Standard Index, FTSE Bursa Malaysia KLCI Index, FBM 100 Index, FBM Emas Index, FBM Hijrah Syariah Index, FBM Emas Syariah Index, FTSE4Good Bursa Malaysia Index, Singapore Exchange and the Dow Jones Sustainability Index (DJSI) for Emerging Markets.</p>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                            <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <div class="tile-bg-white opetrational">
                                     <h3 class="text-blue">OPERATIONAL FIGURES</h3>
                                     <small class="text-light-grey">Workforce</small>
                                     <p><strong>21,000 employees for the whole Group </strong></p>
                                     <small class="text-light-grey">Factories</small>
-                                    <p><strong>47 Factories </strong> (41 in Malaysia, 4 in Thailand, 1 in Vietnam & 1 in China)</p>
+                                    <p><strong>47 Factories </strong> (41 in Malaysia, 4 in Thailand, 1 in Vietnam &amp; 1 in China)</p>
                                     <small class="text-light-grey">Number of Production Lines</small>
                                     <p><strong>765 production lines </strong></p>
                                     <small class="text-light-grey">Production Capacity</small>
@@ -335,7 +335,7 @@
                     <div id="t-logo" class="tab-pane fade in">
                         <div class="row mb-5">
                             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                                <div class="text-center"><img class="img-fluid" src="<?php echo $img_path; ?>Rectangle 3.png"></div>
+                                <div class="text-center"><img class="img-fluid" src="../../images/Rectangle 3.png"></div>
 
                             </div>
                         </div>

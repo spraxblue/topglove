@@ -47,100 +47,96 @@
                 </div>
                 <div class="tab-content mt-5">
                     <div id="all" class="tab-pane fade-in active">
-                        <div class="row ">
-                            <div class="col-md-12">
-                                <div class="row">
-                                    <div class="col-sm-12 col-md-4 col-lg-4">
-                                        <a href="schairmanPowerTalk.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                </div>
-                                                <div class="card-body">
-                                                    <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="schairmanPowerTalk.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4">
-                                        <a href="schairmanPowerTalk.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                </div>
-                                                <div class="card-body">
-                                                    <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a>
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="schairmanPowerTalk.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4">
-                                        <a href="schairmanPowerTalk.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                </div>
-                                                <div class="card-body">
-                                                    <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a>
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="schairmanPowerTalk.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4">
-                                        <a href="schairmanPowerTalk.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                </div>
-                                                <div class="card-body">
-                                                    <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a>
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="schairmanPowerTalk.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4">
-                                        <a href="schairmanPowerTalk.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                </div>
-                                                <div class="card-body">
-                                                    <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a>
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="schairmanPowerTalk.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                    <div class="col-sm-12 col-md-4 col-lg-4">
-                                        <a href="schairmanPowerTalk.php">
-                                            <div class="card">
-                                                <div class="card-overlay-container">
-                                                    <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                </div>
-                                                <div class="card-body">
-                                                    <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-                                                </div>
-                                                <div class="card-footer">
-                                                    <h5 class="card-info">15 Feb 2021</h5>
-                                                </div>
-                                            </div>
-                                        </a>
+                                </a>
+                            </div>
+                            <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="schairmanPowerTalk.php">
+                                    <div class="card">
+                                        <div class="card-overlay-container">
+                                            <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                        </div>
+                                        <div class="card-body">
+                                            <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
+                                        </div>
+                                        <div class="card-footer">
+                                            <h5 class="card-info">15 Feb 2021</h5>
+                                        </div>
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                         <div class="row">
@@ -167,100 +163,96 @@
                             </div>
                             <div id="feb-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row">
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                            </div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -277,100 +269,96 @@
                             </div>
                             <div id="jan-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row">
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                            </div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -389,100 +377,96 @@
                             </div>
                             <div id="feb-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row">
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                            </div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -499,100 +483,96 @@
                             </div>
                             <div id="jan-2021" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2020">
                                 <div class="panel-body">
-                                    <div class="row ">
-                                        <div class="col-md-12">
-                                            <div class="row">
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-1.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">WILL TOP GLOVE REMAIN TOP DOG IN RUBBER GLOVES?</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-2.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE NET PROFIT FOR 2020 FINANCIAL YEAR SURGED 1.9 BILLION RINGGIT</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-3.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE HAS ALLOCATED RM8B CAPEX IN NEXT 6 YEARS</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-5.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE ‘SEES A LOT OF VALUE’ IN HONG KONG LISTING, SAYS MANAGING DIRECTOR</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-6.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">TOP GLOVE SAYS DEMAND VERY STRONG DURING PANDEMIC</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                                <div class="col-sm-12 col-md-4 col-lg-4">
-                                                    <a href="schairmanPowerTalk.php">
-                                                        <div class="card">
-                                                            <div class="card-overlay-container">
-                                                                <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
-                                                            </div>
-                                                            <div class="card-body">
-                                                                <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
-                                                            </div>
-                                                            <div class="card-footer">
-                                                                <h5 class="card-info">15 Feb 2021</h5>
-                                                            </div>
-                                                        </div>
-                                                    </a>
+                                            </a>
+                                        </div>
+                                        <div class="col-sm-12 col-md-4 col-lg-4" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                            <a href="schairmanPowerTalk.php">
+                                                <div class="card">
+                                                    <div class="card-overlay-container">
+                                                        <div class="card-top-overlay"></div><img class="card-img-top" src="../../images/cht-7.png" alt="Card image" style="width:100%"><i class="fa fa-play play-btn" aria-hidden="true"></i>
+                                                    </div>
+                                                    <div class="card-body">
+                                                        <p class="card-text">INTERVIEW ON INCREASING PRODUCTION TO MEET RISING DEMAND</p>
+                                                    </div>
+                                                    <div class="card-footer">
+                                                        <h5 class="card-info">15 Feb 2021</h5>
+                                                    </div>
                                                 </div>
-                                            </div>
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -607,56 +587,11 @@
     <?php @include('layouts/footer.php') ?>
     <!-- Footer -->
     <script>
-        var track = document.getElementById('track');
-
-        var controlBtn = document.getElementById('play-pause');
-
-        function playPause() {
-            if (track.paused) {
-                track.play();
-                //controlBtn.textContent = "Pause";
-                controlBtn.className = "pause";
-            } else {
-                track.pause();
-                //controlBtn.textContent = "Play";
-                controlBtn.className = "play";
-            }
-        }
-
-        controlBtn.addEventListener("click", playPause);
-        track.addEventListener("ended", function() {
-            controlBtn.className = "play";
-        });
-    </script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $(".owl-carousel").owlCarousel();
-        });
-
-
-
-        var $owl = $('#video-3-slider');
-
-        $owl.children().each(function(index) {
-            $(this).attr('data-position', index); // NB: .attr() instead of .data()
-        });
-
-        $owl.owlCarousel({
-            center: true,
-            // loop: true,
-            // items: 3,
-            margin: 30,
-            loop: true,
-            items: 1,
-            stagePadding: 200
-
-        });
-
-        $(document).on('click', '.owl-item>div', function() {
-            // see https://owlcarousel2.github.io/OwlCarousel2/docs/api-events.html#to-owl-carousel
-            var $speed = 300; // in ms
-            $owl.trigger('to.owl.carousel', [$(this).data('position'), $speed]);
-        });
+        $(document).ready(function(){
+            $('.item-link').click(function(){
+                // AOS.refresh();
+            })
+        })
     </script>
 </body>
 

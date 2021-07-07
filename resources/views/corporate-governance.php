@@ -33,7 +33,7 @@
             <div id="about-us-navigation" class="nav-bg-blue">
                 <div class="container-wrapper">
                     <ul class="inner-nav">
-                        <li><a href="#">Governance Structure</a></li>
+                        <li><a href="governance-structure.php">Governance Structure</a></li>
                         <li><a href="#">Engagement between Board Committees & Management</a></li>
                         <li><a href="governance-manual.php">Corporate Manual</a></li>
                     </ul>
@@ -45,8 +45,8 @@
         <section id="shape-future-overview">
             <div class="cop-gov-head_container">
                 <!-- <img class="d-block w-100 gov-head-img" src="../../images/Intersection 21.png"> -->
-                <div class="gov-welcome">
-                    <h1 class="gov_heading gov-welcomw_msg">Corporate <br> Governanace</h1>
+                <div class="gov-welcome" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
+                    <h1 class="gov_heading gov-welcomw_msg">Corporate <br> GOVERNANCE</h1>
                 </div>
             </div>
         </section>
@@ -54,7 +54,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                        <div class="">
+                        <div class="" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                             <p class="cgov-welcom-msg">Our approach to Corporate Governance fosters a culture of <strong>appropriate risk taking and effective decision making, which is promoted beyond the boardroom by the close involvement of the Executive Directors</strong> in day-to-day operations. We remain committed to upholding the principles of good governance and complied with the provisions of the Malaysian Code on Corporate Governance (MCCG) and, the principles and listing requirements from Bursa Securities Main Listing Requirement</p>
                         </div>
                     </div>
@@ -64,8 +64,8 @@
         <section class="cop-gov-quickLinks mt-5">
             <div class="row cop-gov-quickLinks-items">
                 <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                    <div class="social-point bg-red overflow-hidden">
-                        <a href="#">
+                    <div class="social-point bg-red overflow-hidden" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
+                        <a href="governance-structure.php">
                             <div class="social-point-img">
                                 <img src="../../images/Mask Group 1325.png" alt="img" class="w-100">
                             </div>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                    <div class="social-point bg-red overflow-hidden">
+                    <div class="social-point bg-red overflow-hidden" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                         <a href="#">
                             <div class="social-point-img">
                                 <img src="../../images/Mask Group 13273.png" alt="img" class="w-100">
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                    <div class="social-point bg-red overflow-hidden">
+                    <div class="social-point bg-red overflow-hidden" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                         <a href="governance-manual.php">
                             <div class="social-point-img">
                                 <img src="../../images/Mask Group 13264.png" alt="img" class="w-100">

@@ -42,8 +42,8 @@
         <section id="shape-future-overview">
             <div class="gov-head_container">
                 <!-- <img class="d-block w-100 gov-head-img" src="../../images/Intersection 21.png"> -->
-                <div class="gov-welcome">
-                    <h1 class="gov_heading gov-welcomw_msg">Governanace</h1>
+                <div class="gov-welcome" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
+                    <h1 class="gov_heading gov-welcomw_msg">GOVERNANCE</h1>
                     <button type="button" class="details-m-btn" data-toggle="modal" data-target="#policiesdetails">View Policies</button>
                     <button type="button" class="details-m-btn" data-toggle="modal" data-target="#manageSystemdetails">View Management System</button>
                 </div>
@@ -53,11 +53,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                        <img class="img-fluid qua-img" src="<?php echo $img_path; ?>Group 2517.png">
-                        <img class="img-fluid qua-img" src="<?php echo $img_path; ?>Group 2533.png">
+                        <img class="img-fluid qua-img" src="<?php echo $img_path; ?>Group 2517.png" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
+                        <img class="img-fluid qua-img" src="<?php echo $img_path; ?>Group 2533.png" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                     </div>
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                        <p class="qua-dec">Our governance practices underpin the way we manage our business and support the successful delivery of our strategy. It guides our ability to operate in a way that is both legally compliant and responsible and is embedded in our day-to-day business operations. We take our governance role seriously and recognise that, as guardian of our culture, the Board plays a vital role in defining the way in which we do business and leading by example. We pride ourselves on operating in an open, honest, transparent and responsible way that welcomes constructive challenge and debate.</p>
+                        <p class="qua-dec" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">Our governance practices underpin the way we manage our business and support the successful delivery of our strategy. It guides our ability to operate in a way that is both legally compliant and responsible and is embedded in our day-to-day business operations. We take our governance role seriously and recognise that, as guardian of our culture, the Board plays a vital role in defining the way in which we do business and leading by example. We pride ourselves on operating in an open, honest, transparent and responsible way that welcomes constructive challenge and debate.</p>
                     </div>
                 </div>
             </div>
@@ -65,9 +65,9 @@
         <!-- Image 232 -->
         <section class="manage-incent-section mt-5">
             <div class="container">
-                <h1 class="text-blue text-center">MANAGEMENT INCENTIVE / EXECUTIVE COMPENSATION LINKED TO ESG METRICS</h1>
+                <h1 class="text-blue text-center" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">MANAGEMENT INCENTIVE / EXECUTIVE COMPENSATION LINKED TO ESG METRICS</h1>
                 <div class="row">
-                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
                         <p class="manage-incent-dec">Towards further ensuring that the Company’s sustainability goals are advanced, Management is held accountable for the achievement of these goals, with executive compensation tied in with the managing of identified material Environmental, Social & Governance (ESG) issues.</p>
                         <p class="manage-incent-dec">To this end, 35% of their Key Performance Indicators (KPIs) are related to the Social pillar and aligned with the <strong>Group’s top 5 material issues</strong>. The ESG metrics used to determine executive compensation include:</p>
                         <table class="manage-incent-table">
@@ -95,7 +95,7 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                         <p class="manage-incent-dec">In FY2022, in tandem with the Group’s commitment to <strong>address climate change issue aggressively, carbon emission reduction</strong> will be incorporated as a Group KPI and will also be associated with executive compensation.</p>
                         <div class="manage-incent-img-container">
                             <img class="img-fluid manage-incent-img" src="<?php echo $img_path; ?>Group 2622.png">
@@ -108,15 +108,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                        <div class="tax-principle-container">
+                        <div class="tax-principle-container" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                             <h1 class="text-blue">TAX PRINCIPLES & STRATEGY</h1>
                             <p>Top Glove has outlined clear and sustainable tax strategies, articulating the following commitments:</p>
-                            <p><span>A.</span> Compliance with the spirit as well as the letter of the tax laws and regulations in countries in which we operate</p>
-                            <p><span>B.</span> Not to transfer value created to low tax jurisdictions</p>
-                            <p><span>C.</span> Not to use tax structures without commercial substance</p>
-                            <p><span>D.</span> Undertaking of transfer pricing using the arm’s length principle</p>
-                            <p><span>E.</span> Not to use secrecy jurisdictions or so-called “tax havens” for tax avoidance</p>
-                            <p><span>F.</span> The tax policy to be approved and overseen by the Board of Directors</p>
+                            <p><span>A.</span><span> Compliance with the spirit as well as the letter of the tax laws and regulations in countries in which we operate</p>
+                            <p><span>B.</span><span> Not to transfer value created to low tax jurisdictions</p>
+                            <p><span>C.</span><span> Not to use tax structures without commercial substance</p>
+                            <p><span>D.</span><span> Undertaking of transfer pricing using the arm’s length principle</p>
+                            <p><span>E.</span><span> Not to use secrecy jurisdictions or so-called “tax havens” for tax avoidance</p>
+                            <p><span>F.</span><span> The tax policy to be approved and overseen by the Board of Directors</span></p>
                         </div>
 
                     </div>
@@ -127,7 +127,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                        <div class="social-point bg-red overflow-hidden">
+                        <div class="social-point bg-red overflow-hidden" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
                             <a href="corporate-governance.php">
                                 <div class="social-point-img">
                                     <img src="../../images/Mask Group 70.png" alt="img" class="w-100">
@@ -139,7 +139,7 @@
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                        <div class="social-point bg-red overflow-hidden">
+                        <div class="social-point bg-red overflow-hidden" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                             <a href="corporate-integrity.php">
                                 <div class="social-point-img">
                                     <img src="../../images/Mask Group 13296.png" alt="img" class="w-100">

@@ -584,7 +584,7 @@
                                                                         <ul>
                                                                             <li>Our Chairman</li>
                                                                             <li>Corporate Governance</li>
-                                                                            <li>Governanace Mannual</li>
+                                                                            <li>GOVERNANCE Mannual</li>
                                                                             <li>Directors And Management</li>
                                                                         </ul>
                                                                     </div>
@@ -640,7 +640,7 @@
                                                                         <ul>
                                                                             <li>Our Chairman</li>
                                                                             <li>Corporate Governance</li>
-                                                                            <li>Governanace Mannual</li>
+                                                                            <li>GOVERNANCE Mannual</li>
                                                                             <li>Directors And Management</li>
                                                                         </ul>
                                                                     </div>
@@ -695,7 +695,7 @@
                                                                         <ul>
                                                                             <li>Our Chairman</li>
                                                                             <li>Corporate Governance</li>
-                                                                            <li>Governanace Mannual</li>
+                                                                            <li>GOVERNANCE Mannual</li>
                                                                             <li>Directors And Management</li>
                                                                         </ul>
                                                                     </div>
@@ -785,7 +785,7 @@
                                                                         <ul>
                                                                             <li>Our Chairman</li>
                                                                             <li>Corporate Governance</li>
-                                                                            <li>Governanace Mannual</li>
+                                                                            <li>GOVERNANCE Mannual</li>
                                                                             <li>Directors And Management</li>
                                                                         </ul>
                                                                     </div>
@@ -839,7 +839,7 @@
                                                                         <ul>
                                                                             <li>Our Chairman</li>
                                                                             <li>Corporate Governance</li>
-                                                                            <li>Governanace Mannual</li>
+                                                                            <li>GOVERNANCE Mannual</li>
                                                                             <li>Directors And Management</li>
                                                                         </ul>
                                                                     </div>
