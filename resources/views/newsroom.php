@@ -428,7 +428,7 @@
                     </div>
                     <div class="col-md-7" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                         <div id="events-overflow" class="row overflow">
-                            <div class="col-sm-12 col-md-4 col-lg-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4 col-lg-4">
                                 <div class="card active">
                                     <div class="card-body">
                                         <p class="event-date"><strong>02</strong><br>March 2021</p>
@@ -437,7 +437,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-4 col-lg-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4 col-lg-4">
                                 <div class="card">
                                     <div class="card-body">
                                         <p class="event-date"><strong>30</strong><br>March 2021</p>
@@ -446,7 +446,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12 col-md-4 col-lg-3 col-lg-3">
+                            <div class="col-sm-12 col-md-4 col-lg-4 col-lg-4">
                                 <div class="card no-upcoming ">
                                     <div class="card-body">
                                         <p class="card-text">No upcoming event
