@@ -7998,6 +7998,7 @@ section.tax-principles {
 p{
   font-size: 18px;
 }
+<<<<<<< HEAD
 .media-kits-container{
   position: relative;
 }
@@ -8005,6 +8006,11 @@ p{
   .mediakit-images{
     position: relative!important;
     bottom: -95px;
+=======
+@media (max-width: 768px) {
+  .mediakit-images{
+    position: relative!important;
+>>>>>>> fa64f54a2a9402f4d5ced3d92d117a3b6d768b1e
 }    
 .media-kit-items {
     padding: 0;
@@ -8014,7 +8020,10 @@ p{
 @media (max-width: 576px) {
   .mediakit-images{
     position: relative!important;
+<<<<<<< HEAD
     bottom: -95px;
+=======
+>>>>>>> fa64f54a2a9402f4d5ced3d92d117a3b6d768b1e
 }    
 .media-kit-items {
     padding: 0;
@@ -8024,9 +8033,16 @@ p{
 @media (max-width: 360px) {
   .mediakit-images{
     position: relative!important;
+<<<<<<< HEAD
     bottom: -95px;
+=======
+>>>>>>> fa64f54a2a9402f4d5ced3d92d117a3b6d768b1e
 }    
 .media-kit-items {
     padding: 0;
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> fa64f54a2a9402f4d5ced3d92d117a3b6d768b1e

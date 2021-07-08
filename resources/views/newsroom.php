@@ -481,6 +481,7 @@
                         </p>
                     </div>
                 </div>
+<<<<<<< HEAD
                 <div class="media-kits-container">
                     <div class="mediakit-images">
                         <div class="row media-kit-items">
@@ -519,6 +520,44 @@
                                         </div>
                                     </a>
                                 </div>
+=======
+                <div class="mediakit-images">
+                    <div class="row media-kit-items">
+                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mb-4 pb-2">
+                            <div class="social-point bg-red overflow-hidden" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="mediakits.php">
+                                    <div class="social-point-img">
+                                        <img src="<?php echo $img_path; ?>media-1.png" alt="img" class="w-100">
+                                    </div>
+                                    <div class="social-point-heading d-flex justify-content-between align-items-end">
+                                        <h4>Image Library</h4><i class="fas fa-angle-right"></i>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mb-4 pb-2">
+                            <div class="social-point bg-red overflow-hidden" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="mediakits.php">
+                                    <div class="social-point-img">
+                                        <img src="<?php echo $img_path; ?>media-2.png" alt="img" class="w-100">
+                                    </div>
+                                    <div class="social-point-heading d-flex justify-content-between align-items-end">
+                                        <h4>Fact Sheet</h4><i class="fas fa-angle-right"></i>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mb-4 pb-2">
+                            <div class="social-point bg-red overflow-hidden" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
+                                <a href="mediakits.php">
+                                    <div class="social-point-img">
+                                        <img src="<?php echo $img_path; ?>media-3.png" alt="img" class="w-100">
+                                    </div>
+                                    <div class="social-point-heading d-flex justify-content-between align-items-end">
+                                        <h4>Logo</h4><i class="fas fa-angle-right"></i>
+                                    </div>
+                                </a>
+>>>>>>> fa64f54a2a9402f4d5ced3d92d117a3b6d768b1e
                             </div>
                         </div>
                     </div>
@@ -578,6 +617,7 @@
 </body>
 
 </html>
+<<<<<<< HEAD
 
 <!-- Modal -->
 <div id="logoDmodal" class="modal fade logoDmodal" role="dialog">
@@ -628,3 +668,5 @@
 
     </div>
 </div>
+=======
+>>>>>>> fa64f54a2a9402f4d5ced3d92d117a3b6d768b1e
