@@ -130,7 +130,7 @@
                                 </div>
                                 <div class="tile-bg-white">
                                     <h3 class="text-blue">IN-HOUSE BRANDS</h3>
-                                    <table>
+                                    <table class="table-responsive">
                                         <tbody><tr>
                                             <td>TOP GLOVE</td>
                                             <td>TG MEDICAL</td>

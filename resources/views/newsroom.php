@@ -57,7 +57,7 @@
                 </nav>
             </div>
         </section>
-        
+
         <!-- breadcrumb -->
         <section id="news-profile" class="main-profile">
             <div id="about-us-navigation">
@@ -93,7 +93,7 @@
                     </div>
                 </div>
             </div>
-            
+
         </section>
         <section id="news" class="News mt-5">
             <div class="section-container">
@@ -472,7 +472,7 @@
                         <h1>Media Kit</h1>
                     </div>
                 </div>
-                <div class="row" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                <div class="row Xthusjk" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                     <div class="col-md-12">
                         <p>Use of Top Glove Logo and other Top Glove Images by Journalists and Press Agencies</p>
                         <p>We recognise that press agencies and journalists often wish to use the Top Glove logo or other Top Glove images in connection with news stories. We have no objection to such use, but we do need to ensure that the logo and images are used correctly. </p>
@@ -481,42 +481,44 @@
                         </p>
                     </div>
                 </div>
-                <div class="mediakit-images">
-                    <div class="row media-kit-items">
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                            <div class="social-point bg-red overflow-hidden" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
-                                <a href="mediakits.php">
-                                    <div class="social-point-img">
-                                        <img src="<?php echo $img_path; ?>media-1.png" alt="img" class="w-100">
-                                    </div>
-                                    <div class="social-point-heading d-flex justify-content-between align-items-end">
-                                        <h4>Image Library</h4><i class="fas fa-angle-right"></i>
-                                    </div>
-                                </a>
+                <div class="media-kits-container">
+                    <div class="mediakit-images">
+                        <div class="row media-kit-items">
+                            <div class="col-sm-12 col-md-4 col-lg-4 col-xl-3 mb-4 pb-2">
+                                <div class="social-point bg-red overflow-hidden" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
+                                    <a href="Javascript:void(0)" data-toggle="modal" data-target="#logoDmodal">
+                                        <div class="social-point-img">
+                                            <img src="<?php echo $img_path; ?>media-1.png" alt="img" class="w-100">
+                                        </div>
+                                        <div class="social-point-heading d-flex justify-content-between align-items-end">
+                                            <h4>Image Library</h4><i class="fas fa-angle-right"></i>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                            <div class="social-point bg-red overflow-hidden" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
-                                <a href="mediakits.php">
-                                    <div class="social-point-img">
-                                        <img src="<?php echo $img_path; ?>media-2.png" alt="img" class="w-100">
-                                    </div>
-                                    <div class="social-point-heading d-flex justify-content-between align-items-end">
-                                        <h4>Fact Sheet</h4><i class="fas fa-angle-right"></i>
-                                    </div>
-                                </a>
+                            <div class="col-sm-12 col-md-4 col-lg-4 col-xl-3 mb-4 pb-2">
+                                <div class="social-point bg-red overflow-hidden" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
+                                    <a href="Javascript:void(0)" data-toggle="modal" data-target="#logoDmodal">
+                                        <div class="social-point-img">
+                                            <img src="<?php echo $img_path; ?>media-2.png" alt="img" class="w-100">
+                                        </div>
+                                        <div class="social-point-heading d-flex justify-content-between align-items-end">
+                                            <h4>Fact Sheet</h4><i class="fas fa-angle-right"></i>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
-                            <div class="social-point bg-red overflow-hidden" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
-                                <a href="mediakits.php">
-                                    <div class="social-point-img">
-                                        <img src="<?php echo $img_path; ?>media-3.png" alt="img" class="w-100">
-                                    </div>
-                                    <div class="social-point-heading d-flex justify-content-between align-items-end">
-                                        <h4>Logo</h4><i class="fas fa-angle-right"></i>
-                                    </div>
-                                </a>
+                            <div class="col-sm-12 col-md-4 col-lg-4 col-xl-3 mb-4 pb-2">
+                                <div class="social-point bg-red overflow-hidden" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
+                                    <a href="Javascript:void(0)" data-toggle="modal" data-target="#logoDmodal">
+                                        <div class="social-point-img">
+                                            <img src="<?php echo $img_path; ?>media-3.png" alt="img" class="w-100">
+                                        </div>
+                                        <div class="social-point-heading d-flex justify-content-between align-items-end">
+                                            <h4>Logo</h4><i class="fas fa-angle-right"></i>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -535,7 +537,94 @@
         $(window).on('load', function() {
             AOS.refresh();
         });
+        $(document).ready(function() {
+            $('.mediakit-container').each(function() {
+                var h = $(this).height($('.Xthusjk', this).height()+110 + $('.media-kits-container', this).height());
+                if ($(window).width() < 990) {
+                    var h = $(this).height($('.Xthusjk', this).height() + $('.media-kit-items', this).height());
+                }
+                if ($(window).width() < 900) {
+                    var h = $(this).height($('.Xthusjk', this).height() + 100 + $('.media-kit-items', this).height());
+                }
+                if ($(window).width() < 800) {
+                    var h = $(this).height($('.Xthusjk', this).height() - 30 + $('.media-kit-items', this).height());
+                }
+                if ($(window).width() < 750) {
+                    var h = $(this).height($('.Xthusjk', this).height() + 150+ $('.media-kit-items', this).height());
+                }
+                console.log($(window).width())
+            });
+
+        });
+        $(window).resize(function() {
+            $('.mediakit-container').each(function() {
+                var h = $(this).height($('.Xthusjk', this).height() + 100 + $('.media-kits-container', this).height());
+                if ($(window).width() < 990) {
+                    var h = $(this).height($('.Xthusjk', this).height() -30 + $('.media-kit-items', this).height());
+                }
+                if ($(window).width() < 900) {
+                    var h = $(this).height($('.Xthusjk', this).height() - 20 + $('.media-kit-items', this).height());
+                }
+                if ($(window).width() < 800) {
+                    var h = $(this).height($('.Xthusjk', this).height() - 30 + $('.media-kit-items', this).height());
+                }
+                if ($(window).width() < 750) {
+                    var h = $(this).height($('.Xthusjk', this).height() + 100+ $('.media-kit-items', this).height());
+                }
+                console.log($(window).width())
+            });
+        });
     </script>
 </body>
 
 </html>
+
+<!-- Modal -->
+<div id="logoDmodal" class="modal fade logoDmodal" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-sm-5 col-md-5 col-lg-5 col-xl-5">
+                        <div class="form-left">
+                            <h2 class="text-uppercase text-white">Media Kit</h2>
+                            <p class="text-white">For media enquiries or interview opportunities, please fill up the form.</p>
+                            <p class="text-white">The images on the following pages are not for use by suppliers and/or publishers. If you are a supplier and/or publisher and would like to use Top Glove images, please write to us at media@topglove.com.my</p>
+                        </div>
+
+                    </div>
+                    <div class="col-sm-7 col-md-7 col-lg-7 col-xl-7">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <img class="img-fluid img-cross" src="<?php echo $img_path; ?>modal-close.png">
+                        </button>
+                        <form action="javascript:void(0)" class="mt-3">
+                            <div class="form-group row">
+                                <label for="name" class="col-sm-4 col-form-label">Name*</label>
+                                <div class="col-sm-8">
+                                    <input type="text" name="name" class="form-control" id="name" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="contact" class="col-sm-4 col-form-label">Contact Number*</label>
+                                <div class="col-sm-8">
+                                    <input type="text" class="form-control" name="contact" id="contact" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="email" class="col-sm-4 col-form-label">Email Address*</label>
+                                <div class="col-sm-8">
+                                    <input type="text" class="form-control" name="email" id="email" required>
+                                </div>
+                            </div>
+                            <div>
+                                <button type="submit" class="sub-logoDbtn">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

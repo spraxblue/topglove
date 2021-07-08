@@ -123,7 +123,7 @@
                 </div>
             </div>
         </section>
-        <section class="mt-4 mb-5">
+        <section class="governance-media-cards mt-4 mb-5">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">

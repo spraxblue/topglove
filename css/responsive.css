@@ -3556,20 +3556,171 @@
   .corporate-video-slider .owl-stage .owl-item.active {
     margin-right: 0 !important;
   }
-}
-
-@media (max-width: 576px) {
-  .footer-other_brands > p {
-    margin-right: 52%;
-    white-space: nowrap;
+  .gov_heading.gov-welcomw_msg{
+    font-size: 24px;
   }
-  .gov-stru-head_container{
+  .gov-stru-head_container,
+  .cop-gov-head_container,
+  .gov-manual-head_container,
+  .gov-head_container{
     min-height: 18vh;
       object-fit: cover;
       height: inherit;
   }
   .img-responsive{
     width: 100%;
+  }
+  .gov-welcome{
+    left: 40px;
+    top: 42%;
+  }
+  .gov-welcome h1{
+    margin-bottom: 5px;
+  }
+  .details-m-btn{
+    font-size: 13px;
+    padding: 5px 9px;
+  }
+  .qua-img{
+    text-align: center;
+    margin: auto;
+    display: block;
+  }
+  .qua-dec,
+  .qua-dec, .manage-incent-dec{
+    text-align: justify;
+  }
+  .tax-principle-container{
+    width: 100%;
+    box-shadow: none;
+  }
+  .governance-media-cards .social-point.overflow-hidden{
+    margin-top: 130px;
+  }
+  .logoDbtn-head{
+    margin-top: -20px;
+  }
+  .logoDbtn{
+    margin: 0 2px;
+  }
+  .section-container{
+    margin: 0 0 0 5px;
+  }
+  .viewAll{
+    margin-right: 18px;
+    margin-top: 5px;
+  }
+  #electronicMedia .viewAll{
+    margin-top: -45px;
+  }
+  .mediakit-container{
+    padding: 25px 0;
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+  .main-profile .carousel-caption{
+    top: 40px;
+    left: 15px;
+  }
+  .main-profile .carousel-caption p {
+    width: 362px;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.gov-stru-head_container .gov-welcome,
+.gov-manual-head_container .gov-welcome{
+  top: 20%;
+}
+}
+
+@media (max-width: 576px) {
+  .main-profile .carousel-caption{
+    top: 40px;
+    left: 15px;
+  }
+  .main-profile .carousel-caption p {
+    width: 362px;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 600;
+}
+.gov-stru-head_container .gov-welcome,
+.gov-manual-head_container .gov-welcome{
+  top: 20%;
+}
+  .footer-other_brands > p {
+    margin-right: 52%;
+    white-space: nowrap;
+  }
+  .gov-stru-head_container,
+  .cop-gov-head_container,
+  .gov-manual-head_container,
+  .gov-head_container{
+    min-height: 18vh;
+      object-fit: cover;
+      height: inherit;
+  }
+  .img-responsive{
+    width: 100%;
+  }
+  .gov-welcome{
+    left: 40px;
+    top: 42%;
+  }
+  .gov-welcome h1{
+    margin-bottom: 5px;
+  }
+  .details-m-btn{
+    font-size: 13px;
+    padding: 5px 9px;
+  }
+  .qua-img{
+    text-align: center;
+    margin: auto;
+    display: block;
+  }
+  .qua-dec,
+  .qua-dec, .manage-incent-dec{
+    text-align: justify;
+  }
+  .tax-principle-container{
+    width: 100%;
+    box-shadow: none;
+  }
+  .governance-media-cards .social-point.overflow-hidden{
+    margin-top: 130px;
+  }
+  .logoDbtn-head{
+    margin-top: -20px;
+  }
+  .logoDbtn{
+    margin: 0 2px;
+  }
+  .section-container{
+    margin: 0 0 0 5px;
+  }
+  .viewAll{
+    margin-right: 18px;
+    margin-top: 5px;
+  }
+  #electronicMedia .viewAll{
+    margin-top: -45px;
+  }
+  .chairmainsTalk  .msg-bottom{
+    position: relative;
+    display: inline-block;
+    margin-top: 22px;
+    text-align: center!important;
+  }
+  .chairmainsTalk  .left-viewAll{
+    float: right;
+    margin-right: 15px;
+  }
+  .mediakit-container{
+    padding: 25px 0;
+    margin-bottom: 10px;
+    text-align: justify;
   }
 }
 

@@ -41,7 +41,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12">
                     <div class="text-center">
-                    <img class="img-responsive" src="<?php echo $img_path?>group 11232.png">
+                    <img class="img-fluid img-responsive" src="<?php echo $img_path?>structure_13112020.png">
                 </div>
                 </div>
             </div>

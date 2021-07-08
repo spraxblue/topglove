@@ -6718,7 +6718,7 @@ tr.quarterly-dividend-tr {
 .card-text::-webkit-scrollbar,
 .card-body::-webkit-scrollbar {
   height: 5px !important;
-  /* height of horizontal scrollbar ← You're missing this */
+  /* height of horizontal scrollbar ? You're missing this */
   width: 5px !important;
   /* width of vertical scrollbar */
   border: 1px solid #f9f9f9 !important;
@@ -6768,6 +6768,7 @@ tr.quarterly-dividend-tr {
   position: absolute;
   left: 0;
   right: 0;
+  top: 30px;
   bottom: -150px;
 }
 
@@ -7149,6 +7150,7 @@ img.action-icon {
 .single-item-conatiner small {
   display: inline-block;
   margin: 10px 0;
+  font-size: 18px;
 }
 
 .pressRelease-page .card {
@@ -7991,4 +7993,40 @@ section.tax-principles {
     cursor: grab;
     line-height: 28px;
     margin: 20px 0;
+}
+
+p{
+  font-size: 18px;
+}
+.media-kits-container{
+  position: relative;
+}
+@media (max-width: 768px) {
+  .mediakit-images{
+    position: relative!important;
+    bottom: -95px;
+}    
+.media-kit-items {
+    padding: 0;
+}
+}
+
+@media (max-width: 576px) {
+  .mediakit-images{
+    position: relative!important;
+    bottom: -95px;
+}    
+.media-kit-items {
+    padding: 0;
+}
+
+}
+@media (max-width: 360px) {
+  .mediakit-images{
+    position: relative!important;
+    bottom: -95px;
+}    
+.media-kit-items {
+    padding: 0;
+}
 }
