@@ -483,7 +483,7 @@
                 </div>
                 <div class="mediakit-images">
                     <div class="row media-kit-items">
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
+                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mb-4 pb-2">
                             <div class="social-point bg-red overflow-hidden" data-aos="fade-right" data-aos-offset="300" data-aos-easing="linear">
                                 <a href="mediakits.php">
                                     <div class="social-point-img">
@@ -495,7 +495,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
+                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mb-4 pb-2">
                             <div class="social-point bg-red overflow-hidden" data-aos="fade-up" data-aos-offset="300" data-aos-easing="linear">
                                 <a href="mediakits.php">
                                     <div class="social-point-img">
@@ -507,7 +507,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-4 pb-2">
+                        <div class="col-sm-12 col-md-12 col-lg-4 col-xl-3 mb-4 pb-2">
                             <div class="social-point bg-red overflow-hidden" data-aos="fade-left" data-aos-offset="300" data-aos-easing="linear">
                                 <a href="mediakits.php">
                                     <div class="social-point-img">
